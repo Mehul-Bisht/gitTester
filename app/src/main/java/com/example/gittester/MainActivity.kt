@@ -9,5 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         //this is the first addition to branch
+
+        //this is the second addition to branch
     }
 }
